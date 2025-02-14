@@ -1,4 +1,4 @@
-# leetcode-1726
+# 1726. Tuple with same product - Medium
 
 Try it for yourself on [LeetCode](https://leetcode.com/problems/tuple-with-same-product/description/)
 
